@@ -5,3 +5,7 @@ editor: visual
 ---
 
 ## Essa aqui a última, a de número 3
+
+Se você apareceu aqui, e quiser começar "pelo começo"\
+Essa é a minha página 1: <https://amandabaauer.github.io/>\
+e essa, a página 2: <https://amandabaauer.github.io/pagina3>
