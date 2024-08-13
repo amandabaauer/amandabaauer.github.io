@@ -1,10 +1,10 @@
 ---
-title: "Meu pet: o Miminho"
+title: "Meu pet"
 format: html
 editor: visual
 ---
 
-## o Mími
+## o Mími, Miminho, Mimelote
 
 Vim para Rio Grande em Setembro de 2023, e até minha instalação e organização da rotina, fiquei morando sozinha em um apartamento. Em abril de 2024, decidi adotar um gato (com a esperança de ser um filhote calmo). 
 
