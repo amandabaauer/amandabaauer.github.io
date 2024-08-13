@@ -6,12 +6,16 @@ editor: visual
 
 ## Pesquisas realizadas
 
-Vim para Rio Grande em Setembro de 2023, 
+Enquanto pesquisadora, fui bolsista da FAPERGS, ComitêSinos e agora, CAPES. [Currículo Lattes](http://lattes.cnpq.br/3310230458845327)
 
+Um dos meus primeiros temas de pesquisa, enquanto bolsista de Iniciação Científica, foi a triagem de estômagos de peixes... Logo no início do trabalho, além dos ítens alimentares, encontrei microplásticos (fibras plásticas) dentro do estômago. Esse estudo rendeu um [artigo](https://www.scielo.br/j/bjb/a/whSjCgq8ncwBKjxRSqMwKhx/abstract/?lang=en). Nessa linhagem, começamos a investigar a presença de microplásticos na [água bruta e potável](https://www.mdpi.com/2073-4441/12/11/3115) que estavamos consumindo.
 
+No mestrado, embarquei em uma nova aventura: o geoprocessamento!Com bolsa do Comitê de Gerenciamento da Bacia Hidrográfica do Rio dos Sinos. Dentro do Projeto VerdeSinos e nos objetivos do Plano da Bacia, o inventariamento das áreas úmidas era um tema emergente e necessário. Sendo assim, realizei o mapeamento das mesmas, o resultado pode ser verificado na imagem abaixo:
 
-Caso você ainda não tenha visitado a [minha primeira página](https://amandabaauer.github.io), e quiser ler um pouco sobre mim, está convidado! :) 
+![](images/Captura de tela 2024-08-13 163006.png){width="498"}
 
-E se tiver interesse de ler um pouco [do meu projeto de doutorado](pagina3), vem aqui! 
+A dissertação ainda não está publicada e hoje é referência de ferramenta de gestão e proteção das áreas, utilizado pelo Ministério Público.
 
+Caso você ainda não tenha visitado a [minha primeira página](https://amandabaauer.github.io), e quiser ler um pouco sobre mim, está convidado! :)
 
+E se tiver interesse de ler um pouco [do meu projeto de doutorado](pagina3), vem aqui!
