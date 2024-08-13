@@ -1,11 +1,9 @@
 ---
-title: "aulaindex"
+title: "Essa é a minha primeira pagina"
 format: html
 editor: visual
 ---
 
-## qqqqqr coisa
+## Olá,   essa é a minha página de nº1, faz parte da atividade :)
 
-kjhgfccfghj
-
-llkjo dfsfssfasfafasfafafafhgre
+espero que dê certo!
