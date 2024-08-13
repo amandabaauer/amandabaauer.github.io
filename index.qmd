@@ -16,4 +16,4 @@ e a página 3: <https://amandabaauer.github.io/pagina3>
 
 [Página 2](pagina2.html)
 
-[teste](C:/Users/amand/Desktop/Pendentes/Análises CAP3/1907n/C13 vs fisio.jpeg)
+![](images/IMG_0401.JPG){width="309"}
