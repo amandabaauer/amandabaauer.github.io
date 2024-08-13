@@ -1,14 +1,17 @@
 ---
-title: "pagina2"
+title: "Meu pet: o Miminho"
 format: html
 editor: visual
 ---
 
-## Essa aqui é a página 2
+## o Mími
 
-Caso você ainda não tenha visitado a página 1, recomendo você começar lá! \
-<https://amandabaauer.github.io/>
+Vim para Rio Grande em Setembro de 2023, e até minha instalação e organização da rotina, fiquei morando sozinha em um apartamento. Em abril de 2024, decidi adotar um gato (com a esperança de ser um filhote calmo). 
 
-Ou, se já visitou e quiser prosseguir: <https://amandabaauer.github.io/pagina3>
 
-oioio
+
+Caso você ainda não tenha visitado a [página 1](pagina1.html), e quiser ler um pouco sobre mim, está convidado! :) 
+
+E se tiver interesse de ler um pouco [de onde eu vim](pagina3) e um dos destinos das viagens do Mími. 
+
+
