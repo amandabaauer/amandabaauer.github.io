@@ -4,9 +4,13 @@ format: html
 editor: visual
 ---
 
-## Seja bem vindo(a) :)
+## Seja bem vindo(a)!
 
-Essa é minha primeira página. Nela, vou contar um pouco sobre mim. Caso queira saber mais sobre meu pet, você pode visitar minha [segunda página](pagina2.html), caso você queira saber mais sobre a cidade de onde eu vim, leia sobre [Picada Café](pagina3.html). 
+Essa é minha primeira página. Nela, vou contar um pouco sobre mim. 
+
+Caso queira saber mais sobre meu pet, você pode visitar minha [segunda página](pagina2.html), caso você queira saber mais sobre a cidade de onde eu vim, leia sobre [Picada Café](pagina3.html). 
 
 
 ![](images/IMG_0401.JPG){width="309"}
+
+Prazer, meu nome é Amanda Letícia Bauer, nasci em 1998 em uma pequena cidade.
