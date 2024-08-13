@@ -10,7 +10,7 @@ Vim para Rio Grande em Setembro de 2023, e até minha instalação e organizaç�
 
 
 
-Caso você ainda não tenha visitado a [página 1](pagina1.html), e quiser ler um pouco sobre mim, está convidado! :) 
+Caso você ainda não tenha visitado a [https://amandabaauer.github.io/](pagina1.html), e quiser ler um pouco sobre mim, está convidado! :) 
 
 E se tiver interesse de ler um pouco [de onde eu vim](pagina3) e um dos destinos das viagens do Mími. 
 
