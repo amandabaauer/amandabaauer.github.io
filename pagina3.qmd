@@ -1,11 +1,10 @@
 ---
-title: "pagina3"
+title: "Picada Café"
 format: html
 editor: visual
 ---
 
-## Essa aqui a última, a de número 3
+## Picada Café
 
-Se você apareceu aqui, e quiser começar "pelo começo"\
-Essa é a minha página 1: <https://amandabaauer.github.io/>\
-e essa, a página 2: <https://amandabaauer.github.io/pagina3>
+Se você apareceu aqui, e quiser começar "pelo começo", conto um pouco da [minha história](pagina2.html) e sobre o [meu pet](pagina3.html). 
+
