@@ -8,9 +8,10 @@ editor: visual
 
 Essa é minha primeira página. Nela, vou contar um pouco sobre mim. 
 
-Caso queira saber mais sobre meu pet, você pode visitar minha [segunda página](pagina2.html), caso você queira saber mais sobre a cidade de onde eu vim, leia sobre [Picada Café](pagina3.html). 
-
 
 ![](images/IMG_0401.JPG){width="309"}
 
-Prazer, meu nome é Amanda Letícia Bauer, nasci em 1998 em uma pequena cidade. Desde pequena, sempre fui muito aventureira e entusiasta da natureza. Criando sapos, "descrevendo" espécies de formigas pelo fenótipo e com 3 anos, afirmava que seria bióloga. 
+Prazer, meu nome é Amanda Letícia Bauer, nasci em 1998 em uma pequena cidade. Desde pequena, sempre fui muito aventureira e entusiasta da natureza. Criando sapos, "descrevendo" espécies de formigas pelo fenótipo e com 3 anos, afirmava que seria bióloga. Em 2016, ingressei na universidade para continuar minha afirmação de infância. Me formei em Licenciatura em Ciências Biológicas, em 2021. Realizei o Mestrado em Biologia na mesma universidade (Universidade do Vale do Rio dos Sinos), com término em 2023.
+
+Caso queira saber mais sobre minhas pesquisas, você pode visitar minha [segunda página](pagina2.html), caso você queira saber mais sobre meu [projeto de doutorado](pagina3.html). Vem comigo :)
+
