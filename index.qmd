@@ -3,8 +3,9 @@ title: "Essa é a minha primeira pagina"
 format: html
 editor: visual
 ---
+llkk
 
-## Olá,   essa é a minha página de nº1, faz parte da atividade :)
+## Olá, essa é a minha página de nº1, faz parte da atividade :)
 
 espero que dê certo!
 
@@ -12,4 +13,4 @@ se quiser visitar minha página 2: <https://amandabaauer.github.io/pagina2>
 
 e a página 3: <https://amandabaauer.github.io/pagina3>
 
-\[clique aqui\] (pagina2.html)
+\[clique aqui\] (pagina2)
