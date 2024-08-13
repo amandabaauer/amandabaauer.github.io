@@ -1,17 +1,17 @@
 ---
-title: "Meu pet"
+title: "Minhas pesquisas"
 format: html
 editor: visual
 ---
 
-## o Mími, Miminho, Mimelote
+## Pesquisas realizadas
 
-Vim para Rio Grande em Setembro de 2023, e até minha instalação e organização da rotina, fiquei morando sozinha em um apartamento. Em abril de 2024, decidi adotar um gato (com a esperança de ser um filhote calmo). 
+Vim para Rio Grande em Setembro de 2023, 
 
 
 
 Caso você ainda não tenha visitado a [minha primeira página](https://amandabaauer.github.io), e quiser ler um pouco sobre mim, está convidado! :) 
 
-E se tiver interesse de ler um pouco [de onde eu vim](pagina3) e um dos destinos das viagens do Mími. 
+E se tiver interesse de ler um pouco [do meu projeto de doutorado](pagina3), vem aqui! 
 
 
