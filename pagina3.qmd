@@ -6,5 +6,7 @@ editor: visual
 
 ## Doutorado em Biologia de Ambientes Aquáticos Continentais
 
-Se você apareceu aqui, e quiser começar "pelo começo", conto um pouco da [minha história](pagina2.html) e sobre [minhas pesquisas anteriores](pagina3.html). 
+Se você apareceu aqui, e quiser começar "pelo começo", conto um pouco da [minha história](amandabaauer.github.io) e sobre [minhas pesquisas anteriores](pagina2.html). 
+
+O projeto de tese ainda está em planejamento, discussões e rearranjos. 
 
