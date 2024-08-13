@@ -10,7 +10,8 @@ Enquanto pesquisadora, fui bolsista da FAPERGS, ComitêSinos e agora, CAPES. [Cu
 
 Um dos meus primeiros temas de pesquisa, enquanto bolsista de Iniciação Científica, foi a triagem de estômagos de peixes... Logo no início do trabalho, além dos ítens alimentares, encontrei microplásticos (fibras plásticas) dentro do estômago. Esse estudo rendeu um [artigo](https://www.scielo.br/j/bjb/a/whSjCgq8ncwBKjxRSqMwKhx/abstract/?lang=en). Nessa linhagem, começamos a investigar a presença de microplásticos na [água bruta e potável](https://www.mdpi.com/2073-4441/12/11/3115) que estavamos consumindo.
 
-No mestrado, embarquei em uma nova aventura: o geoprocessamento!Com bolsa do Comitê de Gerenciamento da Bacia Hidrográfica do Rio dos Sinos. Dentro do Projeto VerdeSinos e nos objetivos do Plano da Bacia, o inventariamento das áreas úmidas era um tema emergente e necessário. Sendo assim, realizei o mapeamento das mesmas, o resultado pode ser verificado na imagem abaixo:
+No mestrado, embarquei em uma nova aventura: o geoprocessamento!
+Com bolsa do Comitê de Gerenciamento da Bacia Hidrográfica do Rio dos Sinos. Dentro do Projeto VerdeSinos e nos objetivos do Plano da Bacia, o inventariamento das áreas úmidas era um tema emergente e necessário. Sendo assim, realizei o mapeamento das mesmas, o resultado pode ser verificado na imagem abaixo:
 
 ![](images/Captura de tela 2024-08-13 163006.png){width="498"}
 
