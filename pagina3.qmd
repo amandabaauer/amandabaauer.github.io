@@ -11,14 +11,14 @@ Se você apareceu aqui, e quiser começar "pelo começo", conto um pouco da [min
 O projeto de tese ainda está em planejamento, discussões e rearranjos.
 
 Um dos capítulos no qual estou trabalhando agora, é a respeito da resposta isotópica de peixes em relação a diferentes matrizes na paisagem (matriz urbana, arenosa, com pinus e 'normal').
- 
+
+update.packages()
+
 ```{r}
 dados= read.table("clipboard",h=T)
 
 library(knitr)
-kable(dados, caption = "Minha Tabela do CSV")
+kable(dados, caption = "dados")
 ```
 
-Como precisa colocar uma fórmula, escolhi a mais clássica. A de Bhaskara: 
-$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
-
+Como precisa colocar uma fórmula, escolhi a mais clássica. A de Bhaskara: $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$

@@ -130,23 +130,63 @@ window.Quarto = {
 <p>Se você apareceu aqui, e quiser começar “pelo começo”, conto um pouco da <a href="amandabaauer.github.io">minha história</a> e sobre <a href="pagina2.html">minhas pesquisas anteriores</a>.</p>
 <p>O projeto de tese ainda está em planejamento, discussões e rearranjos.</p>
 <p>Um dos capítulos no qual estou trabalhando agora, é a respeito da resposta isotópica de peixes em relação a diferentes matrizes na paisagem (matriz urbana, arenosa, com pinus e ‘normal’).</p>
+<p>update.packages()</p>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>dados<span class="ot">=</span> <span class="fu">read.table</span>(<span class="st">"clipboard"</span>,<span class="at">h=</span>T)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stderr">
-<pre><code>Warning in read.table("clipboard", h = T): linha final incompleta encontrada
-por readTableHeader em 'clipboard'</code></pre>
-</div>
-<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(knitr)</span>
-<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="fu">kable</span>(dados, <span class="at">caption =</span> <span class="st">"Minha Tabela do CSV"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>dados<span class="ot">=</span> <span class="fu">read.table</span>(<span class="st">"clipboard"</span>,<span class="at">h=</span>T)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(knitr)</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="fu">kable</span>(dados, <span class="at">caption =</span> <span class="st">"dados"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output-display">
-<table class="caption-top">
-<caption>Minha Tabela do CSV</caption>
+<table class="caption-top table table-sm table-striped small">
+<caption>dados</caption>
 <thead>
 <tr class="header">
-<th style="text-align: left;">X…</th>
+<th style="text-align: left;">Fisiografia</th>
+<th style="text-align: right;">deltaC13</th>
+<th style="text-align: right;">deltaN15</th>
 </tr>
 </thead>
 <tbody>
+<tr class="odd">
+<td style="text-align: left;">ARENOSO</td>
+<td style="text-align: right;">-15.16</td>
+<td style="text-align: right;">5.84</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ARENOSO</td>
+<td style="text-align: right;">-14.69</td>
+<td style="text-align: right;">6.04</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">NORMAL</td>
+<td style="text-align: right;">-21.15</td>
+<td style="text-align: right;">15.82</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">NORMAL</td>
+<td style="text-align: right;">-22.31</td>
+<td style="text-align: right;">15.40</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">PINUS</td>
+<td style="text-align: right;">-25.36</td>
+<td style="text-align: right;">6.14</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">PINUS</td>
+<td style="text-align: right;">-21.93</td>
+<td style="text-align: right;">6.76</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">URBANO</td>
+<td style="text-align: right;">-20.03</td>
+<td style="text-align: right;">15.43</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">URBANO</td>
+<td style="text-align: right;">-22.73</td>
+<td style="text-align: right;">16.33</td>
+</tr>
 </tbody>
 </table>
 </div>
