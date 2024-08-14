@@ -19,4 +19,19 @@ library(knitr)
 kable(dados, caption = "Delta de Carbono e Nitrogênio em diferentes fisiografias")
 ```
 
+library(ggplot2)
+
+
+```{r}
+ggplot(dados, aes(x = deltaC13, y = deltaN15, color = Fisiografia)) +
+  geom_point(size = 4) +  
+  labs(title = "Gráfico de Dispersão de deltaC13 vs deltaN15",
+       x = "deltaC13",
+       y = "deltaN15") +
+  theme_minimal() + 
+  scale_color_manual(values = c("ARENOSO" = "blue", "NORMAL" = "green", "PINUS" = "red", "URBANO" = "purple"))
+```
+
+
+
 Como precisa colocar uma fórmula, escolhi a mais clássica. A de Bhaskara: $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
