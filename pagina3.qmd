@@ -30,6 +30,9 @@ ggplot(dados, aes(x = deltaC13, y = deltaN15, color = Fisiografia)) +
   theme_minimal() + 
   scale_color_manual(values = c("ARENOSO" = "blue", "NORMAL" = "green", "PINUS" = "red", "URBANO" = "purple"))
 ```
+Lindo né?! No futuro terá mais informações! 
 
+
+# e não esquecendo a tarefa completa....
 
 Como precisa colocar uma fórmula, escolhi a mais clássica. A de Bhaskara: $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
