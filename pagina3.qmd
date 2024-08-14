@@ -33,5 +33,4 @@ ggplot(dados, aes(x = deltaC13, y = deltaN15, color = Fisiografia)) +
 ```
 
 
-
 Como precisa colocar uma fórmula, escolhi a mais clássica. A de Bhaskara: $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
