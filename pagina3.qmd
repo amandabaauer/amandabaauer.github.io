@@ -19,10 +19,9 @@ library(knitr)
 kable(dados, caption = "Delta de Carbono e Nitrogênio em diferentes fisiografias")
 ```
 
-library(ggplot2)
-
 
 ```{r}
+library(ggplot2)
 ggplot(dados, aes(x = deltaC13, y = deltaN15, color = Fisiografia)) +
   geom_point(size = 4) +  
   labs(title = "Gráfico de Dispersão de deltaC13 vs deltaN15",
