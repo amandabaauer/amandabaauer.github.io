@@ -14,7 +14,9 @@ Um dos capítulos no qual estou trabalhando agora, é a respeito da resposta iso
 
 \`\`\`{r} minha_tabela \<- read.csv("C:/Users/amand/Desktop/Bauer, Amanda/3 Doutorado em Biologia/Disciplinas/Reprodutibilidade/aula/amandabaauer.github.io/aularepro.csv")
 
-library(knitr) kable(minha_tabela, caption = "Minha Tabela do CSV") '''
+library(knitr) 
+kable(minha_tabela, caption = "Minha Tabela do CSV") 
+'/'/'/
 
 
 A fórmula de Bhaskara é dada por:
