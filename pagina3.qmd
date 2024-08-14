@@ -12,8 +12,9 @@ O projeto de tese ainda está em planejamento, discussões e rearranjos.
 
 Um dos capítulos no qual estou trabalhando agora, é a respeito da resposta isotópica de peixes em relação a diferentes matrizes na paisagem (matriz urbana, arenosa, com pinus e 'normal').
 
-library(knitr)
+```{r}
+minha_tabela \<- read.csv("C:/Users/amand/Desktop/Bauer, Amanda/3 Doutorado em Biologia/Disciplinas/Reprodutibilidade/aula/amandabaauer.github.io/aularepro.csv")
 
 library(knitr)
-kable(aularepro.csv[1:5, 1:3], caption = "Exemplo de Tabela")
-
+kable(minha_tabela, caption = "Minha Tabela do CSV")
+'''
