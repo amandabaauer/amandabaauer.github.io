@@ -18,7 +18,7 @@ update.packages()
 dados= read.table("clipboard",h=T)
 
 library(knitr)
-kable(dados, caption = "dados")
+kable(dados, caption = "Delta de Carbono e Nitrogênio em diferentes fisiografias")
 ```
 
 Como precisa colocar uma fórmula, escolhi a mais clássica. A de Bhaskara: $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
