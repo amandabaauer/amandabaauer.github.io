@@ -34,6 +34,35 @@ ul.task-list li input[type="checkbox"] {
 <link href="pagina3_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="pagina3_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -67,8 +96,10 @@ ul.task-list li input[type="checkbox"] {
 <p>Se você apareceu aqui, e quiser começar “pelo começo”, conto um pouco da <a href="amandabaauer.github.io">minha história</a> e sobre <a href="pagina2.html">minhas pesquisas anteriores</a>.</p>
 <p>O projeto de tese ainda está em planejamento, discussões e rearranjos.</p>
 <p>Um dos capítulos no qual estou trabalhando agora, é a respeito da resposta isotópica de peixes em relação a diferentes matrizes na paisagem (matriz urbana, arenosa, com pinus e ‘normal’).</p>
-<p>minha_tabela &lt;- read.csv(“C:/Users/amand/Desktop/Bauer, Amanda/3 Doutorado em Biologia/Disciplinas/Reprodutibilidade/aula/amandabaauer.github.io/aularepro.csv”)</p>
+<p>```{r} minha_tabela &lt;- read.csv(“C:/Users/amand/Desktop/Bauer, Amanda/3 Doutorado em Biologia/Disciplinas/Reprodutibilidade/aula/amandabaauer.github.io/aularepro.csv”)</p>
 <p>library(knitr) kable(minha_tabela, caption = “Minha Tabela do CSV”) ’’’</p>
+<p>A fórmula de Bhaskara é dada por:</p>
+<p><span class="math display">\[x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}\]</span></p>
 </section>
 
 </main>

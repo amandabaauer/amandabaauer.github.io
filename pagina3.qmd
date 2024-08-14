@@ -12,9 +12,12 @@ O projeto de tese ainda está em planejamento, discussões e rearranjos.
 
 Um dos capítulos no qual estou trabalhando agora, é a respeito da resposta isotópica de peixes em relação a diferentes matrizes na paisagem (matriz urbana, arenosa, com pinus e 'normal').
 
-```{r}
-minha_tabela \<- read.csv("C:/Users/amand/Desktop/Bauer, Amanda/3 Doutorado em Biologia/Disciplinas/Reprodutibilidade/aula/amandabaauer.github.io/aularepro.csv")
+\`\`\`{r} minha_tabela \<- read.csv("C:/Users/amand/Desktop/Bauer, Amanda/3 Doutorado em Biologia/Disciplinas/Reprodutibilidade/aula/amandabaauer.github.io/aularepro.csv")
 
-library(knitr)
-kable(minha_tabela, caption = "Minha Tabela do CSV")
-'''
+library(knitr) kable(minha_tabela, caption = "Minha Tabela do CSV") '''
+
+
+A fórmula de Bhaskara é dada por:
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
