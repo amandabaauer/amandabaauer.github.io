@@ -12,14 +12,21 @@ O projeto de tese ainda está em planejamento, discussões e rearranjos.
 
 Um dos capítulos no qual estou trabalhando agora, é a respeito da resposta isotópica de peixes em relação a diferentes matrizes na paisagem (matriz urbana, arenosa, com pinus e 'normal').
 
-\`\`\`{r} minha_tabela \<- read.csv("C:/Users/amand/Desktop/Bauer, Amanda/3 Doutorado em Biologia/Disciplinas/Reprodutibilidade/aula/amandabaauer.github.io/aularepro.csv")
++---------------+---------------+--------------------+
+| Fruit         | Price         | Advantages         |
++===============+===============+====================+
+| Bananas       | $1.34         | - built-in wrapper |
+|               |               | - bright color     |
++---------------+---------------+--------------------+
+| Oranges       | $2.10         | - cures scurvy     |
+|               |               | - tasty            |
++---------------+---------------+--------------------+
 
-library(knitr) 
-kable(minha_tabela, caption = "Minha Tabela do CSV") 
-'/'/'/
+: Sample grid table.
 
 
-A fórmula de Bhaskara é dada por:
 
+
+Como precisa colocar uma fórmula, escolhi a mais clássica. A de Bhaskara: 
 $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 
