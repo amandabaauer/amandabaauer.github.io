@@ -6,19 +6,21 @@ editor: visual
 
 # SANGRADOUROS EM DIFERENTES MATRIZES AFETAM A RIQUEZA DE PEIXES?
 
+Amanda Letícia Bauer
 
+## ESTRUTURA DA APRESENTAÇÃO
 
-## Bullets
+-   INTRODUÇÃO;
+-   OBJETIVO;
+-   HIPÓTESE;
+-   ÁREA DE ESTUDO;
+-   METODOLOGIA;
+-   ANÁLISE DE DADOS;
+-   RESULTADOS;
+-   DISCUSSÃO E ESTUDOS FUTUROS.
 
-When you click the **Render** button a document will be generated that includes:
+## INTRODUÇÃO
 
--   Content authored with markdown
--   Output from executable code
+Sangradouros são corpos d'água de pequeno porte que podem fornecer importantes habitats para a reprodução e alimentação de peixes, especialmente em regiões onde os corpos de água maiores são escassos ou degradados.
 
-## Code
-
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
+![](images/Imagem1.png){width="439"}
