@@ -46,4 +46,24 @@ Amanda Letícia Bauer
 -   URBANO
 -   PINUS
 
-![](images/Captura de tela 2024-08-27 152644.png){width="724"}
+![](images/Captura%20de%20tela%202024-08-27%20152644.png){width="724"}
+
+## OBJETIVO
+
+-   Analisar se a riqueza de espécies de peixes em sangradouros varia entre diferentes fisiografias, buscando identificar padrões de diversidade associados às características físicas do ambiente.
+
+## HIPÓTESE
+
+-   Hipótese nula (H0): Não há diferença significativa na riqueza de espécies de peixes entre sangradouros localizados em diferentes fisiografias.
+
+-   Hipótese alternativa (H1): Há diferença significativa na riqueza de espécies de peixes entre sangradouros localizados em diferentes fisiografias.
+
+## ÁREA DE ESTUDO
+
+-20 sangradouros;
+
+-Planície costeira;
+
+-2011.
+
+![](images/Imagem1-01.png)
