@@ -1,10 +1,10 @@
 ---
-title: "doc_Amanda"
+title: "SANGRADOUROS EM DIFERENTES MATRIZES AFETAM A RIQUEZA DE PEIXES?"
 format: revealjs
 editor: visual
 ---
 
-# SANGRADOUROS EM DIFERENTES MATRIZES AFETAM A RIQUEZA DE PEIXES?
+# Disciplina de Reprodutibilidade Científica
 
 Amanda Letícia Bauer
 
@@ -21,6 +21,29 @@ Amanda Letícia Bauer
 
 ## INTRODUÇÃO
 
-Sangradouros são corpos d'água de pequeno porte que podem fornecer importantes habitats para a reprodução e alimentação de peixes, especialmente em regiões onde os corpos de água maiores são escassos ou degradados.
+-   Sangradouros são corpos d'água de pequeno porte que podem fornecer importantes habitats para a reprodução e alimentação de peixes, especialmente em regiões onde os corpos de água maiores são escassos ou degradados.
 
 ![](images/Imagem1.png){width="439"}
+
+## INTRODUÇÃO
+
+-   Conhecer a distribuição dos organismos aquáticos e seus fatores estruturantes em larga escala, além de proporcionar avanços teóricos, também traz implicações para o manejo e conservação da biodiversidade (Jézéquel et al., 2020).
+
+## DIFERENTES FISIOGRAFIAS
+
+-Variedade de habitats;
+
+-Proteção contra predadores;
+
+-Qualidade da água;
+
+-Impactos humanos e alterações fisiográficas.
+
+## MATRIZES INVESTIGADAS
+
+-   ARENOSO
+-   NORMAL (área de referência)
+-   URBANO
+-   PINUS
+
+![](images/Captura de tela 2024-08-27 152644.png){width="724"}
