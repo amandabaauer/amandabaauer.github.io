@@ -8,7 +8,7 @@ editor: visual
 
 Se você apareceu aqui, e quiser começar "pelo começo", conto um pouco da [minha história](amandabaauer.github.io) e sobre [minhas pesquisas anteriores](pagina2.html).
 
-O projeto de tese ainda está em planejamento, discussões e rearranjos.
+O projeto de tese ainda está em planejamento, discussões e rearranjos.Uma breve explanação você pode encontrar [aqui](apresentacao.qmd) 
 
 Um dos capítulos no qual estou trabalhando agora, é a respeito da resposta isotópica de peixes em relação a diferentes matrizes na paisagem (matriz urbana, arenosa, com pinus e 'normal').
 
