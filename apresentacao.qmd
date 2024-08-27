@@ -67,3 +67,13 @@ Amanda Letícia Bauer
 -2011.
 
 ![](images/Imagem1-01.png)
+
+## ÁREA DE ESTUDO
+
+-Rede de arrasto;
+
+-Rede quadrada;
+
+-Puçá.
+
+![](images/OI.png)
