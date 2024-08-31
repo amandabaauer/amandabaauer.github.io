@@ -80,3 +80,74 @@ Amanda Letícia Bauer
 
 ## ANÁLISE DE DADOS
 
+Análises no RStudio
+
+-Teste de normalidade (teste de Shapiro-Wilk);
+
+-Homogeneidade das amostras (teste de Bartlett); (X)
+
+-   Teste de Kruskal-Wallis;
+
+-   Teste post-hoc de Dunn.
+
+## DADOS DESCRITIVOS DA RIQUEZA
+
+Media 6.050000
+
+Mediana 4.500000
+
+Máximo 20.000000
+
+Mínimo 1.000000
+
+Amplitude 19.000000
+
+Variância 22.786842
+
+Desvio-padrão 4.773557
+
+CV(%) 78.901761
+
+## RESULTADOS DOS TESTES DE NORMALIDADE
+
+![](images/Captura%20de%20tela%202024-08-31%20095311.png){width="756"}
+
+## RESULTADOS DOS TESTES DE NORMALIDADE
+
+![](images/clipboard-1215266235.png)
+
+## RESULTADOS DOS TESTES DE NORMALIDADE
+
+![](images/clipboard-823419476.png)
+
+## RESULTADOS DO TESTE DE HOMOGENEIDADE
+
+-   Bartlett test of homogeneity of variances
+
+data: riq by fisio
+
+-   Bartlett's K-squared = Inf, df = 3, *p-value \< 2.2e-16*
+
+**O pressuposto de homogeneidade não foi atendido.**
+
+## RESULTADOS
+
+![](images/clipboard-3487462867.png){width="875"}
+
+## 
+
+-   Hipótese nula (H0): Não há diferença significativa na riqueza de espécies de peixes entre sangradouros localizados em diferentes fisiografias.
+
+![](images/clipboard-4072172677.png)
+
+## DISCUSSÃO E ESTUDOS FUTUROS
+
+![](images/clipboard-2290428943.png)
+
+# ^OBRIGADA\ PELA\ ATENÇÃO!^
+
+amandaleticiabauer\@hotmail.com
+
+Amanda Letícia Bauer
+
+Doutoranda em Biologia de Ambientes Aquáticos Continentais FURG - Universidade Federal de Rio Grande
