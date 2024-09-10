@@ -1,48 +1,73 @@
 ---
-title: Short Paper
+title: RESIDÊNCIA E MOVIMENTAÇÃO: HÁ ALGUM PADRÃO PARA PEIXES 
+EM RIACHO DE CABECEIRA?
 author:
   - name: Amanda Letícia Bauer
     email: amandaleticiabauer@hotmail.com
-    affiliation: Laboratório de Ictiologia - FURG
+    affiliation: Laboratório de Ictiologia - Universidade Federal do Rio Grande FURG
     correspondingauthor: true
     footnote: 1
   - name: Gabriela Buzlarf 
     email: bob@example.com
-    affiliation: Universidade do Vale do Rio dos Sinos - UNISINOS
-  - name: Cat Memes
+    affiliation: Laboratório de Ecologia de Peixes - Universidade do Vale do Rio dos Sinos UNISINOS
+  - name: Kelly Correia de Lima 
     email: cat@example.com
     affiliation: Another University
     footnote: 2
   - name: Derek Zoolander
     email: derek@example.com
-    affiliation: Some Institute of Technology
+    affiliation: Laboratório de Ecologia de Peixes - Universidade do Vale do Rio dos Sinos UNISINOS
     footnote: 2
 address:
-  - code: Some Institute of Technology
-    organization: Big Wig University
+  - code: 2 
+    organization: Laboratório de Ecologia de Peixes - Universidade do Vale do Rio dos Sinos UNISINOS
     addressline: 1 main street
     city: Gotham
     state: State
     postcode: 123456
     country: United States
-  - code: Another University
-    organization: Department
+  - code: 1
+    organization: Laboratório de Ictiologia - Universidade Federal do Rio Grande FURG
     addressline: A street 29
     postcode: 2054 NX
     city: Manchester,
-    country: The Netherlands
+    country: 
 footnote:
   - code: 1
     text: "This is the first author footnote."
   - code: 2
     text: "Another author footnote."
 abstract: |
-  This is the abstract.
+  Estudos em riachos que investigam padrões de movimentação de peixes 
+são escassos e apresentam lacunas. As taxas de recaptura são baixas e os
+potenciais fatores causadores são: baixa eficiência da captura, mortalidade dos 
+indivíduos marcados, alta mobilidade e perda de marcas. O estudo objetivou 
+investigar a comunidade de peixes em um arroio estreito e de baixa vazão para 
+aumentar a eficácia da captura, em escala temporal e espacial menor para 
+compreender os movimentos. O estudo ocorreu nas corredeiras de um tributário do 
+rio Paranhana, parte superior da bacia do Rio dos Sinos no Município de Igrejinha, 
+totalizando 540m investigados. Os peixes foram coletados com pesca elétrica, 
+anestesiados com solução de Eugenol e marcados com VIFE. Em cada evento, uma 
+marca específica foi aplicada. Foram marcados 520 indivíduos com comprimento 
+total maior que 5 cm, e recapturados com marca 131 (25,2%). Sendo 21,2%
+recapturados no local da marcação, 1,3% em corredeiras a jusante e 2,7% a 
+montante. As espécies com maior quantidade de indivíduos recapturados foram
+Characidium pterostictum e Heptapterus mustelinus. Os movimentos de C. 
+pterostictum a montante ocorreram significativamente mais frequentemente do que a 
+jusante do ponto de marcação (chi2=5,4; p=0,001). O padrão das recapturas indicou 
+um comportamento parcialmente residente na corredeira da marcação. Um indivíduo 
+de H. mustelinus apresentou 4 marcas consecutivas. As marcações se distribuíram 
+uniformemente durante as campanhas, demonstrando a eficácia do método. Os 75% 
+não recapturados podem ter se dispersado de forma ativa, ou fora do local do 
+estudo. O padrão é semelhante a outros estudos, demonstrando que uma parte da 
+comunidade é parcialmente residente e outra altamente móvel.
 
-  It consists of two paragraphs.
+ 
 keywords: 
-  - keyword1
-  - keyword2
+  - Marcação
+  - Recaptura
+  - C. pterostictum
+  - H. mustelinus
 journal: "An awesome journal"
 date: "`r Sys.Date()`"
 linenumbers: false
