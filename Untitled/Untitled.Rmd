@@ -1,14 +1,14 @@
 ---
 title: Short Paper
 author:
-  - name: Amanda Letícia Bauerw
-    email: alice@example.com
-    affiliation: Some Institute of Technology
+  - name: Amanda Letícia Bauer
+    email: amandaleticiabauer@hotmail.com
+    affiliation: Laboratório de Ictiologia - FURG
     correspondingauthor: true
     footnote: 1
-  - name: Bob Security
+  - name: Gabriela Buzlarf 
     email: bob@example.com
-    affiliation: Another University
+    affiliation: Universidade do Vale do Rio dos Sinos - UNISINOS
   - name: Cat Memes
     email: cat@example.com
     affiliation: Another University
