@@ -1,44 +1,45 @@
 ---
-title: RESIDÊNCIA E MOVIMENTAÇÃO: HÁ ALGUM PADRÃO PARA PEIXES 
-EM RIACHO DE CABECEIRA?
+title: "RESIDÊNCIA E MOVIMENTAÇÃO: HÁ ALGUM PADRÃO PARA PEIXES EM RIACHO DE CABECEIRA?"
 author:
   - name: Amanda Letícia Bauer
     email: amandaleticiabauer@hotmail.com
-    affiliation: Laboratório de Ictiologia - Universidade Federal do Rio Grande FURG
+    affiliation: "Laboratório de Ictiologia - Universidade Federal do Rio Grande FURG"
     correspondingauthor: true
     footnote: 1
   - name: Gabriela Buzlarf 
     email: bob@example.com
-    affiliation: Laboratório de Ecologia de Peixes - Universidade do Vale do Rio dos Sinos UNISINOS
+    affiliation: "Laboratório de Ecologia de Peixes - Universidade do Vale do Rio dos Sinos UNISINOS"
   - name: Kelly Correia de Lima 
     email: cat@example.com
-    affiliation: Another University
+    affiliation: "Laboratório de Ecologia de Peixes - Universidade do Vale do Rio dos Sinos UNISINOS"
     footnote: 2
-  - name: Derek Zoolander
+  - name: Uwe Horst Schulz
     email: derek@example.com
-    affiliation: Laboratório de Ecologia de Peixes - Universidade do Vale do Rio dos Sinos UNISINOS
+    affiliation: "Laboratório de Ecologia de Peixes - Universidade do Vale do Rio dos Sinos UNISINOS"
     footnote: 2
 address:
   - code: 2 
-    organization: Laboratório de Ecologia de Peixes - Universidade do Vale do Rio dos Sinos UNISINOS
-    addressline: 1 main street
+    organization: "Laboratório de Ecologia de Peixes - Universidade do Vale do Rio dos Sinos UNISINOS"
+    addressline: "1 Main Street"
     city: Gotham
     state: State
     postcode: 123456
-    country: United States
+    country: "United States"
   - code: 1
-    organization: Laboratório de Ictiologia - Universidade Federal do Rio Grande FURG
-    addressline: A street 29
+    organization: "Laboratório de Ictiologia - Universidade Federal do Rio Grande FURG"
+    addressline: "A Street 29"
     postcode: 2054 NX
-    city: Manchester,
-    country: 
+    city: Manchester
+    country: "United Kingdom"
 footnote:
   - code: 1
     text: "This is the first author footnote."
   - code: 2
     text: "Another author footnote."
-abstract: |
-  Estudos em riachos que investigam padrões de movimentação de peixes 
+---
+
+Resumo:
+Estudos em riachos que investigam padrões de movimentação de peixes 
 são escassos e apresentam lacunas. As taxas de recaptura são baixas e os
 potenciais fatores causadores são: baixa eficiência da captura, mortalidade dos 
 indivíduos marcados, alta mobilidade e perda de marcas. O estudo objetivou 
@@ -63,11 +64,12 @@ estudo. O padrão é semelhante a outros estudos, demonstrando que uma parte da
 comunidade é parcialmente residente e outra altamente móvel.
 
  
-keywords: 
+Palavras chaves: 
   - Marcação
   - Recaptura
   - C. pterostictum
   - H. mustelinus
+  
 journal: "An awesome journal"
 date: "`r Sys.Date()`"
 linenumbers: false
