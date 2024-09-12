@@ -1,38 +1,43 @@
 ---
-title: "RESIDÊNCIA E MOVIMENTAÇÃO: HÁ ALGUM PADRÃO PARA PEIXES EM RIACHO DE CABECEIRA?"
+title: 'RESIDÊNCIA E MOVIMENTAÇÃO: HÁ ALGUM PADRÃO PARA PEIXES EM RIACHO DE CABECEIRA?'
 author:
-  - name: Amanda Letícia Bauer
-    email: amandaleticiabauer@hotmail.com
-    affiliation: "Laboratório de Ictiologia - Universidade Federal do Rio Grande FURG"
-    correspondingauthor: true
-    footnote: 1
-  - name: Gabriela Buzlarf
-    affiliation: "Laboratório de Ecologia de Peixes - Universidade do Vale do Rio dos Sinos UNISINOS"
-  - name: Kelly Correia de Lima 
-    affiliation: "Laboratório de Ecologia de Peixes - Universidade do Vale do Rio dos Sinos UNISINOS"
-    footnote: 2
-  - name: Uwe Horst Schulz
-    affiliation: "Laboratório de Ecologia de Peixes - Universidade do Vale do Rio dos Sinos UNISINOS"
-    footnote: 2
+- name: Amanda Letícia Bauer
+  email: amandaleticiabauer@hotmail.com
+  affiliation: "Laboratório de Ictiologia - Universidade Federal do Rio Grande FURG"
+  correspondingauthor: true
+  footnote: 1
+- name: Gabriela Buzlarf
+  affiliation: "Laboratório de Ecologia de Peixes - Universidade do Vale do Rio dos
+    Sinos UNISINOS"
+- name: Kelly Correia de Lima
+  affiliation: "Laboratório de Ecologia de Peixes - Universidade do Vale do Rio dos
+    Sinos UNISINOS"
+  footnote: 2
+- name: Uwe Horst Schulz
+  affiliation: "Laboratório de Ecologia de Peixes - Universidade do Vale do Rio dos
+    Sinos UNISINOS"
+  footnote: 2
 address:
-  - code: 2 
-    organization: "Laboratório de Ecologia de Peixes - Universidade do Vale do Rio dos Sinos UNISINOS"
-    addressline: "1 Main Street"
-    city: Gotham
-    state: State
-    postcode: 123456
-    country: "United States"
-  - code: 1
-    organization: "Laboratório de Ictiologia - Universidade Federal do Rio Grande FURG"
-    addressline: "A Street 29"
-    postcode: 2054 NX
-    city: Manchester
-    country: "United Kingdom"
+- code: 2
+  organization: "Laboratório de Ecologia de Peixes - Universidade do Vale do Rio dos
+    Sinos UNISINOS"
+  addressline: 1 Main Street
+  city: Gotham
+  state: State
+  postcode: 123456
+  country: United States
+- code: 1
+  organization: "Laboratório de Ictiologia - Universidade Federal do Rio Grande FURG"
+  addressline: A Street 29
+  postcode: 2054 NX
+  city: Manchester
+  country: United Kingdom
+output: pdf_document
 footnote:
-  - code: 1
-    text: "This is the first author footnote."
-  - code: 2
-    text: "Another author footnote."
+- code: 1
+  text: This is the first author footnote.
+- code: 2
+  text: Another author footnote.
 ---
 
 **Resumo**
