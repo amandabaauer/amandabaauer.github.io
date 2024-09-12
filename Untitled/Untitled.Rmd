@@ -32,12 +32,30 @@ address:
   postcode: 2054 NX
   city: Manchester
   country: United Kingdom
-output: pdf_document
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
 footnote:
 - code: 1
   text: This is the first author footnote.
 - code: 2
   text: Another author footnote.
+  journal: "An awesome journal"
+date: "`r Sys.Date()`"
+linenumbers: false
+numbersections: true
+bibliography: mybibfile.bib
+biblio-style: elsarticle-harv # author year style for natbib - use 'elsarticle-num' or 'elsarticle-num-names' for numbered scheme
+classoption: preprint, 3p, authoryear # remove authoryear is not using `elsarticle-harv`
+# csl: https://www.zotero.org/styles/elsevier-harvard
+output: 
+  rticles::elsevier_article:
+    keep_tex: true
+    citation_package: natbib
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
 **Resumo**

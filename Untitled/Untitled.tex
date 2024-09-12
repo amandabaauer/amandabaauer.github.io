@@ -73,6 +73,12 @@ DE CABECEIRA?}
 \begin{document}
 \maketitle
 
+file\_content \textless- readLines(``Untitled.Rmd'') problematic\_chars
+\textless- grep(``{[}\^{}\textbackslash x20-\textbackslash x7E{]}'',
+file\_content, value = TRUE) print(problematic\_chars)
+
+getwd()
+
 \textbf{Resumo}
 
 Estudos em riachos que investigam padrões de movimentação de peixes são
