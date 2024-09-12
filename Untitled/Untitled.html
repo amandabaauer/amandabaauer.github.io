@@ -368,14 +368,15 @@ Sinos UNISINOS<br>
 </div>
 
 
-<p>Resumo: Estudos em riachos que investigam padrões de movimentação de
-peixes são escassos e apresentam lacunas. As taxas de recaptura são
-baixas e os potenciais fatores causadores são: baixa eficiência da
-captura, mortalidade dos indivíduos marcados, alta mobilidade e perda de
-marcas. O estudo objetivou investigar a comunidade de peixes em um
-arroio estreito e de baixa vazão para aumentar a eficácia da captura, em
-escala temporal e espacial menor para compreender os movimentos. O
-estudo ocorreu nas corredeiras de um tributário do rio Paranhana, parte
+<p><strong>Resumo</strong></p>
+<p>Estudos em riachos que investigam padrões de movimentação de peixes
+são escassos e apresentam lacunas. As taxas de recaptura são baixas e os
+potenciais fatores causadores são: baixa eficiência da captura,
+mortalidade dos indivíduos marcados, alta mobilidade e perda de marcas.
+O estudo objetivou investigar a comunidade de peixes em um arroio
+estreito e de baixa vazão para aumentar a eficácia da captura, em escala
+temporal e espacial menor para compreender os movimentos. O estudo
+ocorreu nas corredeiras de um tributário do rio Paranhana, parte
 superior da bacia do Rio dos Sinos no Município de Igrejinha,
 totalizando 540m investigados. Os peixes foram coletados com pesca
 elétrica, anestesiados com solução de Eugenol e marcados com VIFE. Em
@@ -383,151 +384,204 @@ cada evento, uma marca específica foi aplicada. Foram marcados 520
 indivíduos com comprimento total maior que 5 cm, e recapturados com
 marca 131 (25,2%). Sendo 21,2% recapturados no local da marcação, 1,3%
 em corredeiras a jusante e 2,7% a montante. As espécies com maior
-quantidade de indivíduos recapturados foram Characidium pterostictum e
-Heptapterus mustelinus. Os movimentos de C. pterostictum a montante
-ocorreram significativamente mais frequentemente do que a jusante do
-ponto de marcação (chi2=5,4; p=0,001). O padrão das recapturas indicou
-um comportamento parcialmente residente na corredeira da marcação. Um
-indivíduo de H. mustelinus apresentou 4 marcas consecutivas. As
-marcações se distribuíram uniformemente durante as campanhas,
-demonstrando a eficácia do método. Os 75% não recapturados podem ter se
-dispersado de forma ativa, ou fora do local do estudo. O padrão é
-semelhante a outros estudos, demonstrando que uma parte da comunidade é
-parcialmente residente e outra altamente móvel.</p>
-<p>Palavras chaves: - Marcação - Recaptura - C. pterostictum - H.
-mustelinus</p>
-<p>journal: “An awesome journal” date: “2024-09-12” linenumbers: false
-numbersections: true bibliography: mybibfile.bib biblio-style:
-elsarticle-harv # author year style for natbib - use ‘elsarticle-num’ or
-‘elsarticle-num-names’ for numbered scheme classoption: preprint, 3p,
-authoryear # remove authoryear is not using <code>elsarticle-harv</code>
-# Use a CSL with <code>citation_package = &quot;default&quot;</code> # csl: <a href="https://www.zotero.org/styles/elsevier-harvard" class="uri">https://www.zotero.org/styles/elsevier-harvard</a> output:
-rticles::elsevier_article: keep_tex: true citation_package: natbib —</p>
-<p>library(tinytex) Please make sure that your manuscript follows the
-guidelines in the Guide for Authors of the relevant journal. It is not
-necessary to typeset your manuscript in exactly the same way as an
-article, unless you are submitting to a camera-ready copy (CRC)
-journal.</p>
-<p>For detailed instructions regarding the elsevier article class, see
-<a href="https://www.elsevier.com/authors/policies-and-guidelines/latex-instructions" class="uri">https://www.elsevier.com/authors/policies-and-guidelines/latex-instructions</a></p>
-<div id="bibliography-styles" class="section level1">
-<h1>Bibliography styles</h1>
-<p>Here are two sample references: <span class="citation">[@Feynman1963118; @Dirac1953888]</span>.</p>
-<p>By default, natbib will be used with the <code>authoryear</code>
-style, set in <code>classoption</code> variable in YAML and with
-<code>elsearticle-harv.bst</code> which is among provided style by
-<code>elsarticle</code> documentclass. Other available style are
-<code>elsarticle-num.bst</code> and
-<code>elsarticle-num-names.bst</code> — the first one can be used for
-the numbered scheme, second one for numbered with new options of
-natbib.sty.</p>
-<p>You can sets extra options with <code>natbiboptions</code> variable
-in YAML header. Example</p>
-<pre class="yaml"><code>natbiboptions: longnamesfirst,angle,semicolon</code></pre>
-<p>There are various more specific bibliography styles available at <a href="https://support.stmdocs.in/wiki/index.php?title=Model-wise_bibliographic_style_files" class="uri">https://support.stmdocs.in/wiki/index.php?title=Model-wise_bibliographic_style_files</a>.
-To use one of these, add it in the header using, for example,
-<code>biblio-style: model1-num-names</code>.</p>
-<div id="using-csl" class="section level2">
-<h2>Using CSL</h2>
-<p>If <code>citation_package</code> is set to <code>default</code> in
-<code>elsevier_article()</code>, then pandoc is used for citations
-instead of <code>natbib</code>. In this case, the <code>csl</code>
-option is used to format the references. Alternative <code>csl</code>
-files are available from <a href="https://www.zotero.org/styles?q=elsevier" class="uri">https://www.zotero.org/styles?q=elsevier</a>. These can be
-downloaded and stored locally, or the url can be used as in the example
-header.</p>
-</div>
-</div>
-<div id="equations" class="section level1">
-<h1>Equations</h1>
-<p>Here is an equation: <span class="math display">\[
-  f_{X}(x) = \left(\frac{\alpha}{\beta}\right)
-  \left(\frac{x}{\beta}\right)^{\alpha-1}
-  e^{-\left(\frac{x}{\beta}\right)^{\alpha}};
-  \alpha,\beta,x &gt; 0 .
-\]</span></p>
-<p>Here is another: <span class="math display">\[\begin{align}
-  a^2+b^2=c^2.
-\end{align}\]</span></p>
-<p>Inline equations: <span class="math inline">\(\sum_{i =
-2}^\infty\{\alpha_i^\beta\}\)</span></p>
-</div>
-<div id="figures-and-tables" class="section level1">
-<h1>Figures and tables</h1>
-<p>Figure <span class="math inline">\(\ref{fig2}\)</span> is generated
-using an R chunk.</p>
-<div class="figure" style="text-align: center">
-<img src="data:image/png;base64,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" alt="\label{fig2}A meaningless scatterplot." width="50%" />
-<p class="caption">
-A meaningless scatterplot.
-</p>
-</div>
-</div>
-<div id="tables-coming-from-r" class="section level1">
-<h1>Tables coming from R</h1>
-<p>Tables can also be generated using R chunks, as shown in Table <span class="math inline">\(\ref{tab1}\)</span> for example.</p>
-<pre class="r"><code>knitr::kable(head(mtcars)[,1:4], 
-    caption = &quot;\\label{tab1}Caption centered above table&quot;
-)</code></pre>
-<table>
-<caption>Caption centered above table</caption>
-<thead>
-<tr class="header">
-<th align="left"></th>
-<th align="right">mpg</th>
-<th align="right">cyl</th>
-<th align="right">disp</th>
-<th align="right">hp</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left">Mazda RX4</td>
-<td align="right">21.0</td>
-<td align="right">6</td>
-<td align="right">160</td>
-<td align="right">110</td>
-</tr>
-<tr class="even">
-<td align="left">Mazda RX4 Wag</td>
-<td align="right">21.0</td>
-<td align="right">6</td>
-<td align="right">160</td>
-<td align="right">110</td>
-</tr>
-<tr class="odd">
-<td align="left">Datsun 710</td>
-<td align="right">22.8</td>
-<td align="right">4</td>
-<td align="right">108</td>
-<td align="right">93</td>
-</tr>
-<tr class="even">
-<td align="left">Hornet 4 Drive</td>
-<td align="right">21.4</td>
-<td align="right">6</td>
-<td align="right">258</td>
-<td align="right">110</td>
-</tr>
-<tr class="odd">
-<td align="left">Hornet Sportabout</td>
-<td align="right">18.7</td>
-<td align="right">8</td>
-<td align="right">360</td>
-<td align="right">175</td>
-</tr>
-<tr class="even">
-<td align="left">Valiant</td>
-<td align="right">18.1</td>
-<td align="right">6</td>
-<td align="right">225</td>
-<td align="right">105</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div id="references" class="section level1 unnumbered">
-<h1 class="unnumbered">References</h1>
+quantidade de indivíduos recapturados foram C<em>haracidium
+pterostictum</em> e <em>Heptapterus mustelinu</em>s. Os movimentos de
+<em>C. pterostictum</em> a montante ocorreram significativamente mais
+frequentemente do que a jusante do ponto de marcação (chi2=5,4;
+p=0,001). O padrão das recapturas indicou um comportamento parcialmente
+residente na corredeira da marcação. Um indivíduo de <em>H.
+mustelinus</em> apresentou 4 marcas consecutivas. As marcações se
+distribuíram uniformemente durante as campanhas, demonstrando a eficácia
+do método. Os 75% não recapturados podem ter se dispersado de forma
+ativa, ou fora do local do estudo. O padrão é semelhante a outros
+estudos, demonstrando que uma parte da comunidade é parcialmente
+residente e outra altamente móvel.</p>
+<p>Palavras chaves: - Marcação - Recaptura - <em>C. pterostictum</em> -
+<em>H. mustelinus</em></p>
+<hr />
+<p><strong>INTRODUÇÃO</strong></p>
+<p>A dinâmica de dispersão é caracterizada pelo movimento dos indivíduos
+para longe do local de origem (LIDICKER e STENSETH, 1992) e é um fator
+determinante para entender a dinâmica populacional, o comportamento, a
+genética e a evolução das espécies (MCMAHON e MATTER, 2006), sendo
+fundamental para compreensão das funções das populações (TILMAN et al.,
+1997). A compreensão destes processos é essencial para a conservação dos
+ecossistemas aquáticos (LUCAS e BARRAS, 2001). O movimento pode estar
+relacionado com os estágios ontogenéticos como reprodução (HENRIQUES et
+al., 2010) refúgio e evasão a predação (ROBERTS e ANGERMEIER, 2007). Os
+distúrbios e pressões antropogênicas podem afetar ou impulsionar a
+dispersão (SHUKLA E BHAT, 2018). Os movimentos podem ser de curta ou
+longa distância. Os curtos são relativos a alterações nas condições
+abióticas e disponibilidade de recursos (ALBANESE et al., 2004) enquanto
+os de longa distância são relativos à reprodução e colonização
+(HENRIQUES et al., 2010). A maioria dos estudos avaliam a migração de
+peixes e são desenvolvidas em ambientes temperados e com peixes de
+grande porte e com valor comercial (KENNEDY et al., 2013). Mesmo
+apresentando um alto valor ecológico, peixes de pequeno porte e com
+menor valor econômico são pouco estudadas (CAROLSFELD et al., 2003). A
+migração mais extrema conhecida e documentada até então, é realizada
+pela Brachyplatystoma rousseauxii, que desova no extremo oeste da
+Amazônia e apresenta um ciclo migratório de aproximadamente 11.600 km
+(BARTHEM et al., 2017). Em riachos, a movimentação dos peixes vem sendo
+investigada e documentada, porém ainda apresenta lacunas. Thompson
+(1933) calculou constantes de migração para espécies de peixes,
+percebendo movimentos aleatórios. Posteriormente Gerking (1950) buscava
+respostas sobre a estabilidade de populações em córregos no verão, e
+anos depois, propôs o “paradigma dos movimentos restritos” (PMR) (1959),
+determinando que a maioria das espécies de riachos são sedentárias.
+Estudos mais recentes apontam que comunidades são compostas tanto de
+indivíduos sedentários, quanto móveis (MAZZONI et al., 2018). A maneira
+com que os peixes se movem nos riachos também influencia na estrutura e
+na função das redes alimentares (WINEMILLER e JEPSEN, 1998). Fausch et
+al. (2002) explica que a dinâmica do movimento, resiliência, ou troca de
+habitat pode ser difícil de se mensurar, uma vez que a escala temporal
+no qual um organismo percebe seu ambiente nem sempre é aparente para os
+pesquisadores. Riachos apresentam ambientes sequenciais de corredeira
+(águas rasas, rápidas e ambiente rochoso) e poço (água lenta com
+substrato fino) (TERESA E CASSATI, 2012). A complexidade e as
+características geomorfológicas e hidrológicas do riacho influenciam
+diretamente a composição funcional dos peixes (TERESA et al., 2015). Em
+corredeiras, as espécies tipicamente encontradas são aquelas associadas
+ao substrato, como Heptapterus sp., Rineloricaria sp., 3 Trichomycterus
+sp. e Hemiancistrus sp. Em termos de abundância, a família Loricariidae
+é que melhor caracteriza a ictiofauna de corredeiras (BECKER, 2002).
+Estudos que investigam padrões de movimentação em riachos de cabeceira
+são ainda menores, devido à dificuldade de realizar ensaios de marcação
+e recaptura e ainda por apresentarem alta rotatividade de espécies
+(BARBOSA, 2019). Além disso, as taxas de recaptura são baixas, como no
+trabalho de Barbosa (2019), resultando uma média de 10% de recaptura dos
+indivíduos marcados. Em estudos abrangentes utilizando diversas
+espécies, as taxas de recapturas variam entre 4,7% (dados não
+publicados) até 35% (Mazzoni et al., 2018). Estes valores baixos podem
+ser causados por quatro fatores: a) Mortalidade alta dos indivíduos
+causado pelo manejo (handling) durante a captura e marcação; b) Perda de
+marcas; c) Eficiência baixa do método de captura; d) Alta mobilidade dos
+indivíduos, que leva a dispersão para fora da área de amostragem; As
+possibilidades a e b foram testadas no laboratório (Leal et al., 2012,
+Brennan et al., 2006). Os resultados destas publicações mostram, que com
+o manejo apropriado durante a captura e marcação a taxa de mortalidade é
+aproximadamente zero. Quanto a persistência das marcas, a durabilidade e
+fragmentação depende do local aplicado e da espécie estudada. Nos
+estudos, as marcas ficaram visíveis por mais de 70 dias, comprovando a
+eficácia do método em curto prazo. Nesse contexto, o objetivo do
+presente trabalho é executar ensaios de marcação e recaptura de peixes
+em um riacho de cabeceira na zona de corredeira para compreender os
+movimentos, em escala temporal e espacial menores para buscar
+compreender a eficácia do método de amostragem.</p>
+<div id="referências-bibliográficas" class="section level2">
+<h2>Referências Bibliográficas</h2>
+<p>Albanese, B., Angermeier, P.L. &amp; Dorai-Raj, S., 2004. Ecological
+correlates of fish movement in a network of Virginia streams. Canadian
+Journal of Fisheries and Aquatic Sciences 61: 857- 869</p>
+<p>BARBOSA, Amanda. Efeito da estrutura de riachos de cabeceiras sobre a
+organização da comunidade de peixes. 2019. 80 f. Tese (Doutorado em
+Biologia) - Programa de Pós-Graduação Biologia, Universidade do Vale do
+Rio dos Sinos (UNISINOS), São Leopoldo, 2019.</p>
+<p>BARTHEM, Ronaldo B. et al. Goliath catfish spawning in the far
+western Amazon confirmed by the distribution of mature adults, drifting
+larvae and migrating juveniles. Scientific reports, v. 7, n. 1, p. 1-13,
+2017. 13</p>
+<p>BECKER, Fernando Gertum. Distribuição e abundância de peixes de
+corredeiras e suas relações com características de hábitat local, bacia
+de drenagem e posição espacial em riachos de Mata Atlântica (bacia do
+rio Maquiné, RS, Brasil. 2002.</p>
+<p>BOWER, Luke M. et al. Effects of hydrology on fish diversity and
+assemblage structure in a Texan coastal plains river. Transactions of
+the American Fisheries Society, v. 148, n. 1, p. 207-218, 2019.</p>
+<p>BRENNAN, Nathan P.; LEBER, Kenneth M.; BLACKBURN, Brett R. Use of
+codedwire and visible implant elastomer tags for marine stock
+enhancement with juvenile red snapper Lutjanus campechanus. Fisheries
+Research, v. 83, n. 1, p. 90-97, 2007.</p>
+<p>BUCKUP, P. A. et al. Waterfall climging in Characidium (Crenuchidae:
+Characidiinae) from eastern Brazil. Ichthyological Exploration of
+Freshwaters, v. 11, n. 3, p. 273-278, 2000.</p>
+<p>CAROLSFELD, Joachim et al. Migratory fishes of South America. World
+Fisheries Trust: Victoria, BC, Canada, 2003.</p>
+<p>FAUSCH, Kurt D. et al. Landscapes to riverscapes: bridging the gap
+between research and conservation of stream fishes: a continuous view of
+the river is needed to understand how processes interacting among scales
+set the context for stream fishes and their habitat. BioScience, v. 52,
+n. 6, p. 483-498, 2002.</p>
+<p>Gerking, S. D. (1950). Stability of a stream fish population. The
+Journal of Wildlife Management, 14(2), 193-202. Gerking, S. D. (1959).
+The restricted movement of fish populations. Biological reviews, 34(2),
+221-242.</p>
+<p>GOWAN, Charles; FAUSCH, Kurt D. Why do foraging stream salmonids move
+during summer?. Environmental Biology of Fishes, v. 64, n. 1-3,
+p. 139-153, 2002. Gowan, C., Young, M. K., Fausch, K. D., &amp; Riley,
+S. C. (1994). Restricted movement in resident stream salmonids: a
+paradigm lost?. Canadian Journal of Fisheries and Aquatic Sciences,
+51(11), 2626-2637.</p>
+<p>Henriques, R., Sousa, V., &amp; Coelho, M. M., 2010. Migration
+patterns counteract seasonal isolation of Squalius torgalensis, a
+critically endangered freshwater fish inhabiting a typical
+Circum-Mediterranean small drainage. Conservation Genetics 11:1859-1870.
+14</p>
+<p>JONSSON, Bror; JONSSON, Nina. Partial migration: niche shift versus
+sexual maturation in fishes. Reviews in Fish Biology and Fisheries, v.
+3, n. 4, p. 348-365, 1993.</p>
+<p>Krebs, Charles J. Ecological Methodology. 1999. KENNEDY, R. J. et
+al. Upstream migratory behaviour of wild and ranched Atlantic salmon
+Salmo salar at a natural obstacle in a coastal spate river. Journal of
+fish biology, v. 83, n. 3, p. 515-530, 2013 KNAEPKENS, G.; BAEKELANDT,
+K.; EENS, M. Assessment of the movement behaviour of the bullhead
+(Cottus gobio), an endangered European freshwater fish. Animal Biology,
+v. 55, n. 3, p. 219-226, 2005. Langerhans, R. B., &amp; Reznick, D. N.,
+2010. Ecology and evolution of swimming performance in fishes:
+predicting evolution with biomechanics. Fish locomotion: an
+eco-ethological perspective 220:248. LARENTIS, Crislei et al. Fauna de
+peixes em riachos: avaliação das intervenções antrópicas sobre os
+atributos e estrutura funcional das assembleias. 2015. LEAL, Mateus
+Evangelista; BARBOSA, Amanda Saldanha; SCHULZ, Uwe Horst. Uso de
+Implante Visual Fluorescente de Elastômero (VIFE) na marcação de
+pequenos peixes de água doce tropicais. Biotemas, v. 25, n. 3,
+p. 311-315, 2012. LIDICKER, W. Z.; STENSETH, N. C. To disperse or not to
+disperse: who does it and why?. In: Animal dispersal. Springer,
+Dordrecht, 1992. p. 21-36. Lucas, M. C., &amp; Baras, E. (2001).
+Migration of freshwater fishes.Blackwell Science. LUCENA, C. A. S. et
+al. O uso de óleo de cravo na eutanásia de peixes. Boletim Sociedade
+Brasileira de Ictiologia, v. 105, p. 20-24, 2013. Mazzoni, R., Pinto, M.
+P., Iglesias-Rios, R., &amp; Costa, R., 2018. Fish movement in an
+Atlantic Forest stream. Neotropical Ichthyology 16. MAZZONI, R.;
+MENDONÇA, R. S.; CARAMASCHI, E. P. Reproductive biology of Astyanax
+janeiroensis (Osteichthyes, Characidae) from the Ubatiba River, Maricá,
+RJ, Brazil. Brazilian Journal of Biology, v. 65, n. 4, p. 643-649, 2005.
+McMahon, T. E., &amp; Matter, W. J., 2006. Linking habitat selection,
+emigration and population dynamics of freshwater fishes: a synthesis of
+ideas and approaches. Ecology of Freshwater Fish 15:200-210. Radinger,
+J., &amp; Wolter, C., 2014. Patterns and predictors of fish dispersal in
+rivers. Fish and fisheries 15:456-473. 15 Roberts, J. H., &amp;
+Angermeier, P. L., 2007. Movement responses of stream fishes to
+introduced corridors of complex cover. Transactions of the American
+Fisheries Society 136:971-978. RODRÍGUEZ, Marco A. Restricted movement
+in stream fish: the paradigm is incomplete, not lost. Ecology, v. 83,
+n. 1, p. 1-13, 2002. Schlosser IJ, Angermeier PL (1995) Spatial
+variation in demographic processes of lotic fishes: conceptual models,
+empirical evidence and implications for conservation. Am Fish Symp No
+17:392–401 Schulz, U. H., Nabinger, V., &amp; Gomes, L. P. (2006).
+Relatório Final do Projeto Monalisa. São Leopoldo, RS. Comitê de
+gerenciamento da bacia do Rio dos SinosCOMITESINOS, 18p Shukla, R.,
+&amp; Bhat, A. (2018). Nestedness patterns and dispersal dynamics in
+tropical central Indian stream fish metacommunities. Freshwater Science,
+37(1), 147-158. SILVA, Raquel Costa da. Movimento longitudinal de
+peixes: uma análise cienciométrica, manutenção de comunidades e
+implicação na colonização de um riacho costeiro. 2013. TERESA, Fabrício
+B.; CASATTI, Lilian. Influence of forest cover and mesohabitat types on
+functional and taxonomic diversity of fish communities in Neotropical
+lowland streams. Ecology of Freshwater Fish, v. 21, n. 3, p. 433-442,
+2012. THIEM, Jason D. et al. Hypoxic conditions interrupt flood‐response
+movements of three lowland river fish species: Implications for flow
+restoration in modified landscapes. Ecohydrology, v. 13, n. 3, p. e2197,
+2020. TERESA, Fabrício Barreto; CASATTI, Lilian; CIANCIARUSO, Marcus
+Vinicius. Functional differentiation between fish assemblages from
+forested and deforested streams. Neotropical Ichthyology, n. ahead,
+p. 00-00, 2015. Thompson, D. H. (1933). The migration of Illinois
+fishes. Biological notes; no. 001. Tilman, D., Lehman, C. L., &amp;
+Kareiva, P. (1997). Population dynamics in spatial habitats. Spatial
+ecology: The role of space in population dynamics and interspecific
+interactions, 3-20. Winemiller, K. O., &amp; Jepsen, D. B. (1998).
+Effects of seasonality and fish movement on tropical river food webs.
+Journal of fish Biology, 53, 267-296</p>
 </div>
 
 
