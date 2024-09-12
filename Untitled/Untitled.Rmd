@@ -6,15 +6,12 @@ author:
     affiliation: "Laboratório de Ictiologia - Universidade Federal do Rio Grande FURG"
     correspondingauthor: true
     footnote: 1
-  - name: Gabriela Buzlarf 
-    email: bob@example.com
+  - name: Gabriela Buzlarf
     affiliation: "Laboratório de Ecologia de Peixes - Universidade do Vale do Rio dos Sinos UNISINOS"
   - name: Kelly Correia de Lima 
-    email: cat@example.com
     affiliation: "Laboratório de Ecologia de Peixes - Universidade do Vale do Rio dos Sinos UNISINOS"
     footnote: 2
   - name: Uwe Horst Schulz
-    email: derek@example.com
     affiliation: "Laboratório de Ecologia de Peixes - Universidade do Vale do Rio dos Sinos UNISINOS"
     footnote: 2
 address:
